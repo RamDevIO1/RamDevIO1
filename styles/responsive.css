@@ -1,0 +1,61 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .header {
+    padding-top: calc(2rem + 104px);
+    padding-bottom: 2rem;
+  }
+  
+  .header .header-heading {
+    font-size: 4rem;
+    line-height: 3.5rem;
+  }
+  
+  .header .header-subheading {
+    font-size: 1.5rem;
+  }
+  
+  .page-section .page-section-heading {
+    font-size: 3rem;
+    line-height: 2.5rem;
+  }
+  
+  .projects-modal .projects-modal-title {
+    font-size: 3rem;
+    line-height: 2.5rem;
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  h1, .h1 {
+    font-size: 2.5rem;
+  }
+  h2, .h2 {
+    font-size: 2rem;
+  }
+  h3, .h3 {
+    font-size: 1.75rem;
+  }
+  h4, .h4 {
+    font-size: 1.5rem;
+  }
+  
+  legend {
+    font-size: 1.5rem;
+  }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  
+}
