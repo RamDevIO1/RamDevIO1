@@ -6,8 +6,10 @@
 My STATS
 </h3>
 
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramdevio1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevio1&layout=compact&theme=github_dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevio1&theme=github_dark" />
+</div>
 
 ---
