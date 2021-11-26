@@ -1,4 +1,6 @@
-<img align="center" src="http://readme-typing-svg.herokuapp.com?color=%23228DF7&size=30&center=true&vCenter=true&width=500&height=100&lines=%2B+WELCOME+TO+MY+GITHUB+%2B" />
+<div align="center">
+<img src="http://readme-typing-svg.herokuapp.com?color=%23228DF7&size=30&center=true&vCenter=true&width=500&height=100&lines=%2B+WELCOME+TO+MY+GITHUB+%2B" />
+</div>
 
 ---
 
